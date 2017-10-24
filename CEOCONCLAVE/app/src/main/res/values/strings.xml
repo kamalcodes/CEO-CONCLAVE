@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CEO CONCLAVE</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_agenda_full_view">Agenda</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">CEO CONCLAVE</string>
+    <string name="dummy_content_2">September 22,2017</string>
+    <string name="bottom_content">GITAM UNIVERSITY \n BENGALURU</string>
+
+    <string name="title_activity_splash">CEO CONCLAVE</string>
+    <string name="www">ceo.gitamblr.in</string>
+    <string name="address">ceo.gitamblr.in \n\n NH-207, Nagadenahalli \n Daddaballapur Taluk \n Bengaluru Rural District \n Karnataka</string>
+
+</resources>
